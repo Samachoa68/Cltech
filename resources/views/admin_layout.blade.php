@@ -243,7 +243,7 @@
                         <li>
                             <a class="active" href="index.html">
                                 <i class="fa fa-dashboard"></i>
-                                <span>Dashboard</span>
+                                <span>Dashboard 68</span>
                             </a>
                         </li>
 
